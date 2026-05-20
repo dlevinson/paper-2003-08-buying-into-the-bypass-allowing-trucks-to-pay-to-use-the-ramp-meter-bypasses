@@ -1,0 +1,12 @@
+workbook,sheet,max_rows,max_columns,nonempty_cells,formula_cells,exported_values_csv,exported_formulas_csv,conversion_status
+14nov.xls,toll,1011,45,43121,42012,data/simulation_workbook_csv/14nov/toll.csv,data/simulation_workbook_csv/14nov/toll__formulas.csv,converted_clean
+14nov.xls,comp,63,11,549,27,data/simulation_workbook_csv/14nov/comp.csv,data/simulation_workbook_csv/14nov/comp__formulas.csv,converted_clean
+14nov.xls,results,43,11,410,0,data/simulation_workbook_csv/14nov/results.csv,data/simulation_workbook_csv/14nov/results__formulas.csv,converted_clean
+14nov_results.xls,case2 (2),43,15,533,120,data/simulation_workbook_csv/14nov_results/case2_2.csv,data/simulation_workbook_csv/14nov_results/case2_2__formulas.csv,converted_clean
+14nov_results.xls,delay,1,1,0,0,,,empty_sheet_documented_not_exported
+14nov_results.xls,Sys,1,1,0,0,,,empty_sheet_documented_not_exported
+14nov_results.xls,CS,1,1,0,0,,,empty_sheet_documented_not_exported
+14nov_results.xls,profit,1,1,0,0,,,empty_sheet_documented_not_exported
+14nov_results.xls,case 1,45,15,536,121,data/simulation_workbook_csv/14nov_results/case_1.csv,data/simulation_workbook_csv/14nov_results/case_1__formulas.csv,converted_clean
+14nov_results.xls,case 2,43,15,535,120,data/simulation_workbook_csv/14nov_results/case_2.csv,data/simulation_workbook_csv/14nov_results/case_2__formulas.csv,converted_clean
+14nov_results.xls,case 3,43,15,535,120,data/simulation_workbook_csv/14nov_results/case_3.csv,data/simulation_workbook_csv/14nov_results/case_3__formulas.csv,converted_clean
