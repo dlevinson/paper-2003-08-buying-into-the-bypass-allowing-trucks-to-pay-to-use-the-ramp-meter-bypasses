@@ -1,6 +1,6 @@
 # License Status: Buying Into the Bypass: Allowing Trucks to Pay to Use the Ramp Meter Bypasses
 
-Generated: 2026-05-20 13:31:26 AEST
+Generated: 2026-05-20 14:46:37 AEST
 
 Recorded license/access note from the verified audit row: Authored historical workbook package; choose repository license at upload. Paper PDF remains subject to publisher terms.
 
