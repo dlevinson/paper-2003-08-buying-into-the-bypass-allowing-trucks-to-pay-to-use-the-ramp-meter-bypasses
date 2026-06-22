@@ -1,5 +1,9 @@
 # Buying Into the Bypass: Allowing Trucks to Pay to Use the Ramp Meter Bypasses
 
+## Contribution
+
+This paper evaluates a paid ramp-meter bypass that lets high-value commercial vehicles avoid ramp queues. A queue and choice simulation links tolls, truck values of time, arrival patterns, and meter timing to participation, delay, and revenue, illustrating how a targeted price can improve allocation without opening the bypass indiscriminately.
+
 ## Bibliographic Information
 
 - Row ID: `paper-2003-08`
